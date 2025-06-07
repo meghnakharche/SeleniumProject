@@ -1,4 +1,4 @@
-package FrameworkProject.CustomizedFramework.Testcomponents;
+package testcomponent;
 
 import java.io.FileInputStream;
 import java.io.IOException;
