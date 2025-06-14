@@ -1,1 +1,2 @@
-This is customized selenium java framework with Junit, Extent Report and POM/Page Factory concepts.
+This is  Selenium automation framework using Java, JUnit, Maven, and ExtentReports. Built with Object-Oriented Programming (OOP) principles to enhance reusability, readability, and maintainability.
+
